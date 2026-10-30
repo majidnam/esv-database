@@ -18,6 +18,7 @@ Note that in several places throughout the project, the terms 'charity' and 'cha
 This project uses open-source tools developed by others, most notably:
 * SQL and PL/pgSQL
 * [PostgreSQL](https://www.postgresql.org/)
+* [draw.io](https://www.drawio.com/), to create the database diagrams
 
 ## Licence
 This project is licensed under the terms of the BSD 3-Clause License. Please read the `LICENSE.md` file included in this project's repository.
