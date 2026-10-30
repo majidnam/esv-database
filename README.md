@@ -12,13 +12,16 @@ This database project has been designed to store and organise data which could b
 Note that in several places throughout the project, the terms 'charity' and 'charities' are currently being used to refer to volunteer involving organisations.
 
 
-*Important note*: The data used to seed the tables (found in `dummy_data.sql`) are dummy data. The employers, charities/ volunteer involving organisations, volunteering roles, feedback reviews, and all references in the dummy data are fictional. This database project was created for portfolio purposes, and in order to be used to learn more about and practise the use of SQL and database development.
+*Important note*: The data used to seed the tables (found in `dummy_data.sql`) are dummy data. The employers, charities/ volunteer involving organisations, volunteering roles, feedback reviews, and all references in the dummy data are fictional. This database project was created for portfolio purposes, and to be used to learn more about and practice database development and working with SQL.
 
 ## Acknowledgements
 This project uses open-source tools developed by others, most notably:
 * SQL and PL/pgSQL
 * [PostgreSQL](https://www.postgresql.org/)
 * [draw.io](https://www.drawio.com/), to create the database diagrams
+
+## Database diagram
+![database diagram](database_diagrams/crows_foot_notation_diagram.png)
 
 ## Licence
 This project is licensed under the terms of the BSD 3-Clause License. Please read the `LICENSE.md` file included in this project's repository.
